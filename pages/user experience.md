@@ -1,0 +1,3 @@
+- **Player Comfort:** Designing game interfaces and interactions that are comfortable and enjoyable for players, enhancing overall satisfaction.
+- **Intuitive Gameplay:** Ensuring that the game is easy to learn and interact with, providing a smooth and engaging experience from the start.
+- **Feedback and Adaptation:** Incorporating player feedback into the design to continuously improve the user experience, making it more responsive to player needs and preferences.

@@ -1,0 +1,3 @@
+- **Online Multiplayer Mechanics:** Designing and implementing features that allow players to interact, compete, or cooperate in an online environment.
+- **Social Interaction Tools:** Integrating chat systems, friend lists, and community tools to facilitate communication and social interaction within the game.
+- **Community Building:** Encouraging the formation of a game community through features like clans, guilds, or shared in-game events, enhancing player engagement and retention.

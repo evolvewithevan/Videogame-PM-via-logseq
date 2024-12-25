@@ -1,0 +1,3 @@
+- **Aesthetic Choice:** The game will be stylized to be increasingly glitchy and buggy looking
+- **Consistency Across Elements:** Ensuring uniformity in the visual presentation of all game elements, including characters, environments, and UI, to maintain a cohesive experience.
+- **Alignment with Game's Theme:** Matching the visual style with the game's theme and narrative, enhancing the storytelling and emotional impact of the game.

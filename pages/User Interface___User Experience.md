@@ -1,0 +1,3 @@
+- **Interface Design:** Creating visually appealing and intuitive interfaces that allow players to easily navigate menus, access game features, and understand game information.
+- **User Experience:** Ensuring a smooth, enjoyable, and accessible experience for players, with attention to usability, feedback, and overall game interaction.
+- **Consistency and Accessibility:** Maintaining a consistent design language throughout the game and incorporating accessibility features to cater to a diverse range of players.

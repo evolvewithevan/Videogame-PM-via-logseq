@@ -1,0 +1,3 @@
+- **Responsive Sounds:** Designing sound effects that trigger in response to player interactions with the game environment, like opening doors, moving objects, or stepping on different surfaces.
+- **Enhanced Realism:** Using audio to add a layer of realism to interactive objects, making the game world feel more tangible and alive.
+- **Feedback for Actions:** Providing immediate auditory feedback to players for their actions, reinforcing the sense of impact and engagement with the game world.

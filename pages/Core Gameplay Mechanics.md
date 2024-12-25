@@ -1,0 +1,3 @@
+- **Fundamental Rules and Actions:** Establishing the basic rules, player actions, and interactions that define how the game is played and what makes it unique.
+- **Game Dynamics:** Designing the mechanics that drive the gameplay, such as movement, combat, puzzle-solving, or resource management, ensuring they are engaging and well-balanced.
+- **Integration with Game Design:** Ensuring these mechanics are seamlessly integrated with the overall game design, narrative, and objectives, providing a cohesive and enjoyable player experience.

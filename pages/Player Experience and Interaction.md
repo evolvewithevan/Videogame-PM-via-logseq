@@ -1,0 +1,2 @@
+- **User Interface/User Experience (UI/UX):** Designing intuitive and appealing interfaces and ensuring a smooth, user-friendly experience that enhances player interaction and enjoyment.
+- **Multiplayer and Social Features:** If applicable, incorporating elements like online multiplayer, social interaction, and community-building features to enrich the player experience.

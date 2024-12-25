@@ -1,0 +1,3 @@
+- **Market Research:** Studying similar games in the market to understand current trends, player preferences, and gaps in the market.
+- **Identifying USPs:** Identifying unique selling points (USPs) that can differentiate the game from competitors.
+- **Benchmarking:** Comparing features, pricing, and performance of competing games to inform strategic decisions in development and marketing.

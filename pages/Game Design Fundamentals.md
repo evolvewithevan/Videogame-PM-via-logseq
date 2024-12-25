@@ -1,0 +1,3 @@
+- **Core Gameplay Mechanics:** This involves the basic rules, player actions, and interactions that define the game's fundamental playstyle. It's about what the player does in the game and how the game responds.
+- **Game Objectives and Goals:** These are the targets or endpoints that players aim to achieve, providing direction and purpose to the gameplay. Objectives can range from simple tasks to complex, overarching goals.
+- **Technology and Engine:** The game engine and technology stack that enable game development.

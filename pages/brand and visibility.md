@@ -1,0 +1,3 @@
+- **Brand Awareness:** Utilizing PR activities to increase visibility and awareness of the game, reaching potential players through various media channels.
+- **Community Building:** Engaging with and nurturing the game's community, fostering a loyal player base and creating advocates for the game.
+- **Media Relations:** Establishing and maintaining positive relationships with the gaming press and influencers to secure coverage and endorsements.

@@ -1,0 +1,3 @@
+- **Enhancing Visual Appeal:** Creating special visual effects (VFX) like particle effects, lighting, and shaders to add flair and depth to the game's visual presentation.
+- **Reinforcing Game Mechanics:** Using VFX to visually represent game mechanics, such as indicating special abilities, environmental changes, or in-game events.
+- **Cohesiveness with Art Style:** Ensuring that visual effects align with and complement the overall art style of the game, contributing to a unified and immersive aesthetic experience.

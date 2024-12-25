@@ -1,0 +1,3 @@
+- **Uniform Design Elements:** Ensuring a consistent visual and functional design across all user interface elements, enhancing usability and player familiarity.
+- **Ease of Use:** Designing interfaces that are intuitive and easy to navigate for a wide range of players, reducing learning curves.
+- **Accessibility Features:** Incorporating options like adjustable text sizes, colorblind modes, and alternative control schemes to make the game accessible to players with different needs and abilities.

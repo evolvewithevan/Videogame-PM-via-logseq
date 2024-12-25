@@ -1,0 +1,3 @@
+- **Uniform Mechanics:** Ensuring that the game's fundamental rules and mechanics are applied consistently throughout the game, avoiding confusion and maintaining a coherent gameplay experience.
+- **Clear Communication:** Effectively communicating these mechanics to the player, often through tutorials, UI indicators, or intuitive design, so players understand how to interact with the game.
+- **Predictable Interactions:** Designing game mechanics in a way that players can predict and understand the outcomes of their actions, fostering a sense of mastery and control.

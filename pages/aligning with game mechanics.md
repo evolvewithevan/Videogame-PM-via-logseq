@@ -1,0 +1,3 @@
+- **Coherent Design Integration:** Ensuring that the game's objectives and goals are closely integrated with its core gameplay mechanics, providing a seamless and intuitive player experience.
+- **Mechanics that Support Objectives:** Designing game mechanics that naturally lead players towards achieving the game's objectives, reinforcing the purpose and direction of the gameplay.
+- **Enhancing Engagement:** Using objectives and goals to drive player engagement with the game mechanics, encouraging exploration, strategy, and skill development.

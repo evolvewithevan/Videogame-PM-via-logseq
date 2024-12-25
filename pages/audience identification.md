@@ -1,0 +1,3 @@
+- **Demographic Profiling:** Determining the age, gender, interests, and gaming preferences of the potential player base for the game.
+- **Player Preferences:** Understanding the types of games, gameplay mechanics, and themes that resonate with the identified audience.
+- **Market Segmentation:** Segmenting the market to target specific groups more effectively, tailoring the game's design and marketing to suit their preferences.

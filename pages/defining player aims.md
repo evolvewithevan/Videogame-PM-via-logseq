@@ -1,0 +1,3 @@
+- **Setting Clear Targets:** The players goal throughout the game is to traverse through each level or "platter" on its way to reach the "SSD" on its way out of the "HDD" as the HDD dies and is experiencing corruption
+- **Aligning with Game's Theme:** Ensuring that these aims are in harmony with the game's overall theme and narrative, enhancing the storytelling and player immersion.
+- **Motivation and Engagement:** Using these aims to motivate players, driving their engagement and interaction with the game's mechanics and story.

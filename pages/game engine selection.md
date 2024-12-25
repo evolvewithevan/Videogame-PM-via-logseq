@@ -1,0 +1,3 @@
+- **Evaluating Options:** Assessing different game engines (like Unity, Unreal Engine, Godot) based on their features, capabilities, and suitability for the specific type of game being developed.
+- **Platform Considerations:** Choosing an engine that supports the intended platforms (PC, consoles, mobile) and aligns with the game's technical requirements.
+- **Developer Familiarity and Resources:** Considering the development team's familiarity with the engine and the resources available, including documentation, community support, and toolsets.

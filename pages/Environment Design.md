@@ -1,0 +1,3 @@
+- **Creating Immersive Settings:** Designing diverse and detailed game environments that set the stage for gameplay, ranging from realistic landscapes to fantastical worlds.
+- **Thematic Consistency:** Ensuring that the environment design aligns with the game's theme and narrative, contributing to a cohesive game world.
+- **Functionality and Playability:** Balancing aesthetic appeal with practical aspects of game design, such as navigability, interaction points, and environmental challenges.

@@ -1,0 +1,3 @@
+- **Building Brand Image:** Using PR strategies to create and maintain a positive public image of the game, enhancing its market appeal.
+- **Community Interaction:** Actively engaging with the player community through social media, forums, and events to build loyalty and encourage word-of-mouth promotion.
+- **Handling Feedback:** Effectively managing player feedback and public relations crises to maintain a positive reputation and trust in the brand.

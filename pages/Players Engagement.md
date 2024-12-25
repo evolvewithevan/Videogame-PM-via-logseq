@@ -1,0 +1,3 @@
+- **Engaging Mechanics:** Designing core gameplay mechanics that are inherently interesting and fun, capturing and holding players' attention.
+- **Rewarding Interaction:** Ensuring that interactions within the game are rewarding and satisfying, encouraging continued play and exploration.
+- **Challenge and Skill Balance:** Balancing the level of challenge presented by the mechanics with the player's skill level to maintain engagement without causing frustration or boredom.

@@ -1,0 +1,4 @@
+- **Sales:** Deciding on direct sales revenue, such as one-time purchases of the game or episodic content.
+- **In-App Purchases:** Implementing in-game transactions for additional content, features, or virtual goods.
+- **Subscriptions:** Offering ongoing access to the game or exclusive content through a subscription model.
+- **Advertising:** Integrating ads into the game as a revenue source, balancing player experience with monetization.

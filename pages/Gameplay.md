@@ -1,0 +1,4 @@
+- **Initial Exploration:** Players start as humans, exploring the mansion, solving puzzles, and encountering both helpful and misleading clues.
+- **Transformation into Ghosts:** Upon failing certain challenges, players die and become either good ghosts (aiding remaining humans) or bad ghosts (trying to prevent human escape).
+- **Endgame Objectives:** The gameplay culminates in either humans escaping the mansion, resulting in a win for human players and good ghosts, or all humans being eliminated or failing to escape, leading to a victory for bad ghosts.
+-

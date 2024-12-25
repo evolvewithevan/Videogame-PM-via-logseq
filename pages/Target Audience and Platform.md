@@ -1,0 +1,3 @@
+- **Identifying the Audience:** Determining who the game is for, based on factors like age, gaming preferences, and interests, to tailor the game's design and features to their expectations and needs.
+- **Platform Selection:** Choosing the right platforms (such as PC, consoles, mobile) for the game, based on where the target audience is most likely to engage with it, and considering the unique characteristics and limitations of each platform.
+- **Tailoring Experience to Platform:** Adapting the game's design, controls, and presentation to suit the chosen platforms, ensuring an optimal and enjoyable experience for players across different devices.

@@ -1,0 +1,3 @@
+- **Advertising Campaigns:** Creating and executing advertising strategies across various platforms, including digital, print, and social media.
+- **Public Relations and Community Engagement:** Building relationships with players, influencers, and media through community management, events, and public relations activities.
+- **Brand and Visibility:** Developing a strong game brand and increasing visibility through targeted marketing efforts, collaborations, and presence on gaming platforms and events.

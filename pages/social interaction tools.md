@@ -1,0 +1,3 @@
+- **Communication Features:** Implementing in-game chat, voice communication, and other tools that enable players to interact and collaborate.
+- **Community Building:** Providing features like friend lists, guilds, or clans to foster a sense of community and encourage ongoing engagement.
+- **Social Sharing:** Facilitating the sharing of in-game achievements, screenshots, or experiences on social media or within the game community.

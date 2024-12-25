@@ -1,0 +1,2 @@
+- Priority nodes based on importance among other node(s)
+- List node completion order by radial integer distance from core

@@ -1,0 +1,3 @@
+- **Visual Representation:** Creating unique and memorable character designs that visually convey their personality, role, and background within the game's narrative.
+- **Consistency with Game World:** Ensuring character designs are consistent with the game's setting and overall aesthetic, contributing to a cohesive and immersive experience.
+- **Functionality and Animation:** Designing characters not only for visual appeal but also for functionality, considering how they will move and interact within the game environment.

@@ -1,0 +1,3 @@
+- **Visual Style and Art Direction:** This involves choosing a specific artistic style that defines the game's visual appearance, from realistic to stylized or abstract.
+- **Character and Environment Design:** The creation of visually appealing and coherent character models and environments that fit the game's world and narrative.
+- **Animation and Visual Effects:** Developing animations for characters and objects, as well as special effects that enhance the visual appeal and feedback within the game.

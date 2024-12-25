@@ -1,0 +1,3 @@
+- **Efficiency:** Enhancing the game's code and asset usage to ensure efficient performance, particularly on less powerful hardware.
+- **Load Balancing:** Managing resource-intensive tasks to prevent slowdowns, ensuring consistent frame rates.
+- **Cross-Platform Performance:** Adapting the game to perform well across different platforms and devices, considering their unique specifications.

@@ -1,0 +1,3 @@
+- **Objective-Driven Design:** Organizing the game's structure and progression around its objectives and goals, guiding how players move through and experience the game.
+- **Balancing Challenges and Rewards:** Creating a balance between the challenges players face and the rewards they receive for achieving objectives, maintaining player motivation and satisfaction.
+- **Pacing and Progression:** Managing the pacing of the game to align with the objectives, ensuring a smooth and engaging progression that keeps players invested in reaching their goals.

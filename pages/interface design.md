@@ -1,0 +1,3 @@
+- **Visual Layout:** Creating a visually appealing and clear layout for the game's interface, ensuring important information is easily accessible and understandable.
+- **User Interaction:** Designing intuitive and responsive controls and menus, allowing for smooth navigation and interaction within the game.
+- **Aesthetic Integration:** Ensuring the interface design aligns with the overall art style and theme of the game, contributing to a cohesive visual experience.

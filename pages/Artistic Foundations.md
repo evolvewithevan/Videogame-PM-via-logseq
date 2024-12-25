@@ -1,0 +1,3 @@
+- **Art and Aesthetics:** Visual style, character design, and overall visual presentation.
+- **Sound and Music:** Audio elements including music, sound effects, and voice acting.
+- **Narrative and Theme:** The storyline, setting, and thematic elements that provide context to the gameplay.

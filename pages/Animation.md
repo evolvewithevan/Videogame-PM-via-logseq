@@ -1,0 +1,3 @@
+- **Character and Object Movement:** Creating smooth and realistic animations for characters and objects, enhancing the visual storytelling and interaction within the game.
+- **Expressiveness and Style:** Using animation to convey emotions, actions, and reactions, contributing to the character's personality and the game's overall style.
+- **Integration with Gameplay:** Ensuring animations are well-timed and synchronized with gameplay mechanics, providing a seamless and immersive player experience.

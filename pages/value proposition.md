@@ -1,0 +1,3 @@
+- **Player Value:** Ensuring that the game offers enough value to justify its cost, whether through content, quality, or unique features.
+- **Balancing Monetization and Experience:** Striking a balance between effective monetization strategies and maintaining a positive, unobtrusive player experience.
+- **Long-Term Engagement:** Focusing on monetization approaches that encourage long-term player engagement and satisfaction, rather than short-term gains.

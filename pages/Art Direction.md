@@ -1,0 +1,3 @@
+- **Defining Visual Style:** Establishing the overall visual style and aesthetic of the game, guiding the look of environments, characters, and visual effects.
+- **Cohesive Visual Theme:** Ensuring a consistent and cohesive visual theme across all aspects of the game, from UI design to character models.
+- **Guiding Creative Vision:** Leading the creative vision for the game's visual elements, ensuring they align with the game's narrative and gameplay objectives.
